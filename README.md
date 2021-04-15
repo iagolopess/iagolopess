@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dices Party](https://github.com/iagolopess/flutterDados)
 
-- 🌱 I’m currently learning **Python, Flutter and Javascript**
+- 🌱 I’m currently learning **Python, Flutter and Kotlin**
 
 - 📫 How to reach me **iagoalopes@gmail.com**
 
