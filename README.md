@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **ServiceNow**
 
-- ⚡ Fun fact **I speak a little of icelandic**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iago-alves-lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iago-alves-lopes" height="30" width="40" /></a>
