@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iago Lopes</h1>
-<h3 align="center">A passionate for Development and Data</h3>
+<h3 align="center">A passionate for Design and Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iagolopess&label=Profile%20views&color=0e75b6&style=flat" alt="iagolopess" /> </p>
 
