@@ -1,23 +1,78 @@
-<h1 align="center">Hi 👋, I'm Iago Lopes</h1>
-<h3 align="center">A passionate for Technology</h3>
+<h1 align="center">Olá, bem-vindos(as)! :vampire_man: </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagolopess&label=Profile%20views&color=0e75b6&style=flat" alt="iagolopess" /> </p>
+<h3>Um apaixonado por tecnologia e design</h3>
 
-- 👨‍💻 I’m working with **ServiceNow**
+ <p>Me chamo Iago, sou desenvolvedor Front-End apaixonado por tecnologia, código e design. Formado em Análise e desenvolvimento de Sistemas pela <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> e trabalho na <a href="https://www.accenture.com/br-pt">Accenture Brazil</a>.</p>
+ 
+ <ul>
+  <li> :man_technologist: &nbsp;Trabalho com <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
+  <li> :books: &nbsp;Atualmente Aprendendo: <strong>JavaScript, Python e Flutter</strong></li>
+ </ul>
 
-- 🌱 I’m currently learning **Javascript and Python**
 
+  <br>
 
-<h3 align="left">Connect with me:</h3>
+  <div>
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=iagolopess&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagolopess&&layout=compact&hide=shell&theme=highcontrast">
+  
+  
+  
+      
+
+  </div>
+  
+
+<div>
+  <h3 align="left">Linguagens e Ferramentas</h3>
+</div>
+<div>
+
+<img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
+<img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
+<img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
+<img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
+<img align = "center" src="https://user-images.githubusercontent.com/43242069/137539896-afaf53aa-3ab1-43ac-a93f-f048bfd95d1a.png" alt="flutter" width="35" height="35"/> 
+  <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
+  <img align = "center" src="https://user-images.githubusercontent.com/43242069/137540107-3c1f4acc-7d10-490a-b947-42363daee523.png" alt="adobe xd" width="35" height="35"/> 
+<img align = "center" src="https://i.imgur.com/eKV8V75.png  alt="python" width="40" height="40"/>                  
+<img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/> 
+<img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
+
+                                                           
+                                                                                            
+</div>
+  
+
+  <div>
+  <img align="right" alt="Monkey using a laptop" width="200" height="200" src="https://user-images.githubusercontent.com/43242069/137538467-2dad8993-94f0-4b90-b548-5da2afe72b8a.gif">
+    
+  </div>
+ 
+  ##
+ <div>
+  <h3 align="left">Minhas Redes Sociais </h3>
 <p align="left">
-<a href="https://linkedin.com/in/iago-alves-lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iago-alves-lopes" height="30" width="40" /></a>
-<a href="https://instagram.com/iagolopess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iagolopess" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagolopess&show_icons=true&locale=en&layout=compact" alt="iagolopess" /></p>
+<a href="https://instagram.com/iagolopess" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="110" /></a>     
+ <a href="https://www.linkedin.com/in/iago-alves-lopes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+<a href="mailto:iagoalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center"/></a>
+ 
+  </div>
+    <div>
+    <table align="right">
+ <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Espanhol</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
+</table>
+   </div>
+  
+   
+  
+<div>  
+  <h4 align="left"> Visitantes </h4>
+  <img align="left" src="https://profile-counter.glitch.me/iagolopess/count.svg">
+   </div> 
+    
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+ 
+</div>
