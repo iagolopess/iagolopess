@@ -74,6 +74,6 @@
   <img align="left" src="https://profile-counter.glitch.me/iagolopess/count.svg">
    </div> 
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/iagolopess/iagolopess/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
