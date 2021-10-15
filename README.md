@@ -1,12 +1,12 @@
-<h1 align="center">Olá, bem-vindos(as)! :vampire_man: </h1>
+<h1 align="center">Hi, There. Welcome! :vampire_man: </h1>
 
-<h3>Um apaixonado por tecnologia e design</h3>
+<h3>A passionate for technology and design</h3>
 
- <p>Me chamo Iago, sou desenvolvedor Front-End apaixonado por tecnologia, código e design. Formado em Análise e desenvolvimento de Sistemas pela <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> e trabalho na <a href="https://www.accenture.com/br-pt">Accenture Brazil</a>.</p>
+ <p>Hi! My name is Iago, I'm a Front-end developer passionate for techonology, code and design. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.accenture.com/br-pt">Accenture Brazil</a>.</p>
  
  <ul>
-  <li> :man_technologist: &nbsp;Trabalho com <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
-  <li> :books: &nbsp;Atualmente Aprendendo: <strong>JavaScript, Python e Flutter</strong></li>
+  <li> :man_technologist: &nbsp;I'm working with <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
+  <li> :books: &nbsp;I'm learning: <strong>JavaScript, Python e Flutter</strong></li>
  </ul>
 
 
@@ -24,7 +24,7 @@
   
 
 <div>
-  <h3 align="left">Linguagens e Ferramentas</h3>
+  <h3 align="left">Language programming, Frameworks and Tools</h3>
 </div>
 <div>
 
@@ -51,7 +51,7 @@
  
   ##
  <div>
-  <h3 align="left">Minhas Redes Sociais </h3>
+  <h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://instagram.com/iagolopess" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="110" /></a>     
  <a href="https://www.linkedin.com/in/iago-alves-lopes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
@@ -60,16 +60,17 @@
   </div>
     <div>
     <table align="right">
- <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Espanhol</a></td></tr>
- <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
+                        <tr><td>:speaking_head: &nbsp; I'm able to communicate in:</td></tr>
+ <tr><td>:brazil: &nbsp;Portuguese</td></tr>
+ <tr><td>:uk: &nbsp;English</td></tr>
+ <tr><td>:es: &nbsp;Spanish</td></tr>
 </table>
    </div>
   
    
   
 <div>  
-  <h4 align="left"> Visitantes </h4>
+  <h4 align="left"> Visitors </h4>
   <img align="left" src="https://profile-counter.glitch.me/iagolopess/count.svg">
    </div> 
     
