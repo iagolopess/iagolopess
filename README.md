@@ -60,10 +60,14 @@
   </div>
     <div>
     <table align="right">
-                        <tr><td>:speaking_head: &nbsp; I'm able to communicate in:</td></tr>
- <tr><td>:brazil: &nbsp;Portuguese</td></tr>
- <tr><td>:uk: &nbsp;English</td></tr>
- <tr><td>:es: &nbsp;Spanish</td></tr>
+                        <tr><td><img align="center" src="https://user-images.githubusercontent.com/43242069/137638141-9b15d358-eca9-46cf-9f57-1a60cc80a418.png"/>
+ &nbsp; I'm able to communicate in:</td></tr>
+ <tr><td><img align="center" src="https://user-images.githubusercontent.com/43242069/137637980-ba63d024-af65-4cd7-9cce-91b0e5f6456c.png"/>
+ &nbsp;Portuguese</td></tr>
+ <tr><td> <img align="center" src="https://user-images.githubusercontent.com/43242069/137638018-b571a7a8-c1ff-4653-9f53-de21e5425f69.png"/> 
+ &nbsp;English</td></tr>
+ <tr><td> <img align="center" src="https://user-images.githubusercontent.com/43242069/137638057-76911ed1-d24a-4604-96a5-c7b7fc3b47f0.png" />
+ &nbsp;Spanish</td></tr>
 </table>
    </div>
   
