@@ -53,8 +53,7 @@
   ##
  <div>
   <h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://instagram.com/iagolopess" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="110" /></a>     
+<p align="left">    
  <a href="https://www.linkedin.com/in/iago-alves-lopes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
 <a href="mailto:iagoalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center"/></a>
  
