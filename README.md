@@ -7,6 +7,7 @@
  <ul>
   <li> :man_technologist: &nbsp;I'm working with <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
   <li> :books: &nbsp;I'm learning: <strong>JavaScript and Flutter</strong></li>
+ <li> :monocle_face: &nbsp; <strong>Fun fact about me</strong>: Halloween is my favourite holiday </li>
  </ul>
 
 
@@ -46,8 +47,8 @@
   
 
   <div>
-  <img align="right" alt="Monkey using a laptop" width="200" height="200" src="https://user-images.githubusercontent.com/43242069/137538467-2dad8993-94f0-4b90-b548-5da2afe72b8a.gif">
-    
+  <img align="right" alt="Monkey using a laptop" width="200" height="200" src="https://user-images.githubusercontent.com/43242069/138807815-98eead31-2355-4c51-a6d7-cc5fa099e18e.gif">
+
   </div>
  
   ##
