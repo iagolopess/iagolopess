@@ -34,7 +34,6 @@
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
 <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
-<img align = "center" src="https://user-images.githubusercontent.com/43242069/137539896-afaf53aa-3ab1-43ac-a93f-f048bfd95d1a.png" alt="flutter" width="35" height="35"/> 
   <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
   <img align = "center" src="https://user-images.githubusercontent.com/43242069/137540107-3c1f4acc-7d10-490a-b947-42363daee523.png" alt="adobe xd" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/eKV8V75.png  alt="python" width="40" height="40"/>                  
