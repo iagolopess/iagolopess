@@ -1,6 +1,6 @@
 <h1 align="center">Hi, There. Welcome! :vampire_man: </h1>
 
-<h3>A passionate for technology and design</h3>
+<h3>A passionate for technology and innovation</h3>
 
  <p>Hi! My name is Iago, I'm a Front-end developer passionate for techonology, code and design. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.accenture.com/br-pt">Accenture Brazil</a>.</p>
  
