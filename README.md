@@ -6,7 +6,7 @@
  
  <ul>
   <li> :man_technologist: &nbsp;I'm working with <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
-  <li> :books: &nbsp;I'm learning: <strong>JavaScript and Python</strong></li>
+  <li> :books: &nbsp;I'm learning: <strong>JavaScript and Flutter</strong></li>
  <li> :monocle_face: &nbsp; <strong>Fun fact about me</strong>: Halloween is my favourite holiday </li>
  </ul>
 
