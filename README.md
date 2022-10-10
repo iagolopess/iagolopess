@@ -30,14 +30,17 @@
 <div>
 
 <img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
-<img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
 <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
-  <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
-  <img align = "center" src="https://user-images.githubusercontent.com/43242069/137540107-3c1f4acc-7d10-490a-b947-42363daee523.png" alt="adobe xd" width="35" height="35"/> 
-<img align = "center" src="https://i.imgur.com/eKV8V75.png  alt="python" width="40" height="40"/>                  
-<img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
+<img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="33" height="33"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="35" height="35"/>          
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="35" height="35"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="35" height="35"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="35" height="35"/>          
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="35" height="35"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 
                                                            
