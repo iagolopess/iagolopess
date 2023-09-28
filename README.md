@@ -1,15 +1,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h1 align="center">Hi, There. Welcome! :vampire_man: </h1>
+<h1 align="center">Hi, There. Welcome! :milky_way: </h1>
 
 <h3>A passionate for technology and innovation</h3>
 
- <p>Hi! My name is Iago, I'm a Front-end developer passionate for techonology, code and design. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.criticaltechworks.com/">Critical TechWorks</a>.</p>
+ <p>Hi! My name is Iago, I'm a Servicenow developer passionate for techonology, astronomy and random facts. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.criticaltechworks.com/">Critical TechWorks</a> create solutions inside Servicenow platform.</p>
  
  <ul>
   <li> :man_technologist: &nbsp;I'm working with <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
   <li> :books: &nbsp;I'm learning: <strong>JavaScript and Python</strong></li>
- <li> :monocle_face: &nbsp; <strong>Fun fact about me</strong>: Halloween is my favourite holiday </li>
+ <li> :monocle_face: &nbsp; <strong>Fun fact about me</strong>:I started studying technology to work with astronomy, but I haven't had that opportunity yet, so I'm waiting for ESA to notice me xD :telescope: </li>
  </ul>
 
 
@@ -33,12 +33,10 @@
           
 <img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
-<img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
 <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="35" height="35"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="35" height="35"/>          
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="35" height="35"/>
-<i class="devicon-pandas-original-wordmark"></i>
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 
                                                            
@@ -47,7 +45,7 @@
   
 
   <div>
-  <img align="right" alt="Monkey using a laptop" width="200" height="200" src="https://user-images.githubusercontent.com/43242069/138807815-98eead31-2355-4c51-a6d7-cc5fa099e18e.gif">
+  <img align="right" alt="Monkey using a laptop" width="200" height="200" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43242069/271434584-bccf2226-585f-44b9-81cb-f515cccf4cc6.gif">
 
   </div>
  
