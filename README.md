@@ -39,13 +39,14 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="35" height="35"/>
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 
-                                                           
+  <img align="right" alt="Monkey using a laptop" width="300" height="300" src="https://github.com/iagolopess/iagolopess/assets/43242069/c133824e-e89f-41b5-a26f-d674c0aff7c9.gif">                                                         
                                                                                             
 </div>
   
 
+
   <div>
-  <img align="right" alt="Monkey using a laptop" width="200" height="200" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43242069/271434584-bccf2226-585f-44b9-81cb-f515cccf4cc6.gif">
+  
 
   </div>
  
