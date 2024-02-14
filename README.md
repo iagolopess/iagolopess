@@ -4,12 +4,12 @@
 
 <h3>A passionate for technology and innovation</h3>
 
- <p>Hi! My name is Iago, I'm a Servicenow developer passionate for techonology, astronomy and random facts. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.criticaltechworks.com/">Critical TechWorks</a> create solutions inside Servicenow platform.</p>
+ <p>Hi! My name is Iago, I'm a Servicenow developer passionate for techonology, design and random facts. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.criticaltechworks.com/">Critical TechWorks</a> create solutions inside Servicenow Platform.</p>
  
  <ul>
   <li> :man_technologist: &nbsp;I'm working with <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
-  <li> :books: &nbsp;I'm learning: <strong>JavaScript and Python</strong></li>
- <li> :monocle_face: &nbsp; <strong>Fun fact about me</strong>:I started studying technology to work with astronomy, but I haven't had that opportunity yet, so I'm waiting for ESA to notice me xD :telescope: </li>
+  <li> :books: &nbsp;I'm learning: <strong>JavaScript and Java</strong></li>
+ <li> :monocle_face: &nbsp;<strong>Fun fact about me</strong>: I already won a short story writing contest :writing_hand: </li>
  </ul>
 
 
@@ -35,11 +35,10 @@
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
 <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="35" height="35"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="35" height="35"/>          
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="35" height="35"/>
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 
-  <img align="right" alt="Monkey using a laptop" width="300" height="300" src="https://github.com/iagolopess/iagolopess/assets/43242069/c133824e-e89f-41b5-a26f-d674c0aff7c9.gif">                                                         
+  <img align="right" alt="A man wearing glass using a computer while part of the scenario take fire" width="300" height="300" src="https://github.com/iagolopess/iagolopess/assets/43242069/2b2de035-416c-4fc7-95a7-70e5b185d70f
+">                                                         
                                                                                             
 </div>
   
@@ -55,7 +54,7 @@
   <h3 align="left">Connect with me </h3>
 <p align="left">    
  <a href="https://www.linkedin.com/in/iago-alves-lopes/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
-<a href="mailto:iagoalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center"/></a>
+<a href="https://discord.com/users/501564129711226880" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" width="110" align ="center"/></a>
  
   </div>
     <div>
