@@ -35,7 +35,15 @@
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
 <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="35" height="35"/>
-<img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="37" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="37" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+
+<img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/>
+
+          
 
   <img align="right" alt="A man wearing glass using a computer while part of the scenario take fire" width="300" height="300" src="https://github.com/iagolopess/iagolopess/assets/43242069/2b2de035-416c-4fc7-95a7-70e5b185d70f
 ">                                                         
