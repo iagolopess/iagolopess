@@ -4,11 +4,11 @@
 
 <h3>A passionate for technology and innovation</h3>
 
- <p>Hi! My name is Iago, I'm a Servicenow developer passionate for techonology and random facts. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I current work at <a href="https://www.criticaltechworks.com/">Critical TechWorks</a> create solutions inside Servicenow Platform.</p>
+ <p>Hi! My name is Iago, I'm a ServiceNow developer passionate about technology and random facts. I have an Associate Degree in System Analysis and Development by <a href="https://www.impacta.edu.br/">FIT Faculdade Impacta de Tecnologia</a> and I currently work at <a href="https://www.criticaltechworks.com/">Critical TechWorks</a> create solutions inside ServiceNow Platform.</p>
  
  <ul>
   <li> :man_technologist: &nbsp;I'm working with <a href="https://www.servicenow.com/"><strong>ServiceNow</strong></a></li>
-  <li> :books: &nbsp;I'm learning: <strong>JavaScript and Java</strong></li>
+  <li> :books: &nbsp;I'm learning: <strong>JavaScript and Python</strong></li>
  <li> :monocle_face: &nbsp;<strong>Fun fact about me</strong>: I already won a short story writing contest :writing_hand: </li>
  </ul>
 
@@ -39,9 +39,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="37" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-
-<img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
+<img src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/>
 
           
 
