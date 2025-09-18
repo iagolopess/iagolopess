@@ -17,10 +17,10 @@
 
   <div>
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=iagolopess&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagolopess&&layout=compact&hide=shell&theme=highcontrast">
+  <img height="160em" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iagolopess">
   
   
-  
+
       
 
   </div>
