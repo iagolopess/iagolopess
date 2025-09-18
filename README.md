@@ -16,10 +16,10 @@
   <br>
 
   <div>
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=iagolopess&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="[![Iago GitHub stats](https://github-readme-stats.vercel.app/api?username=iagolopess)](https://github.com/iagolopess/github-readme-stats)">
+  <!--<img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=iagolopess&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="160em" align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagolopess&size_weight=0.5&count_weight=0.5)">-->
   
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagolopess&size_weight=0.5&count_weight=0.5)
 
       
 
@@ -79,10 +79,10 @@
   
    
   
-<div>  
+<!--<div>  
   <h4 align="left"> Visitors </h4>
   <img align="left" src="https://profile-counter.glitch.me/iagolopess/count.svg">
-   </div> 
+   </div>-->
     
   ![Snake animation](https://github.com/iagolopess/iagolopess/blob/output/github-contribution-grid-snake.svg) 
  
